@@ -1,4 +1,4 @@
-# Hotel-Booking-Cancellation-Prediction-Model-
+# Hotel-Booking-Cancellation-Prediction-Model
 ## Overview:
 Developing a predictive model to forecast hotel booking cancellations 
 
